@@ -1,0 +1,3 @@
+C:/THI_Prog/Lab2/build/CMakeFiles/Lab2.dir
+C:/THI_Prog/Lab2/build/CMakeFiles/edit_cache.dir
+C:/THI_Prog/Lab2/build/CMakeFiles/rebuild_cache.dir
